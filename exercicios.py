@@ -83,6 +83,8 @@ def imprime_matriz(matriz):
 matriz = cria_matriz(5,4)
 imprime_matriz(matriz)
 
+--------------------------------------------------------------------------------------------------------
+
 # opcional: variáveis de ambiente
 # obrigatoria: open
 
